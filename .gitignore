@@ -1,0 +1,10 @@
+# runtime output
+run/logs/
+run/*.log
+run/screens.json
+run/sameapp.png
+run/capacity.png
+run/capacity-15.png
+
+# downloaded archive (the extracted scrcpy folder is committed)
+tools/*.zip

@@ -1,0 +1,167 @@
+﻿[
+    {
+        "n":  1,
+        "app":  "com.android.settings",
+        "displayId":  57,
+        "alive":  true,
+        "focused":  "com.android.settings/.Settings",
+        "cpuPct":  13.8,
+        "memAvailMb":  5997,
+        "seconds":  4.8,
+        "ok":  true
+    },
+    {
+        "n":  2,
+        "app":  "com.android.deskclock",
+        "displayId":  58,
+        "alive":  true,
+        "focused":  "com.android.deskclock/.DeskClock",
+        "cpuPct":  10.9,
+        "memAvailMb":  5876,
+        "seconds":  4.7,
+        "ok":  true
+    },
+    {
+        "n":  3,
+        "app":  "com.android.calculator2",
+        "displayId":  59,
+        "alive":  true,
+        "focused":  "com.android.calculator2/.Calculator",
+        "cpuPct":  11.8,
+        "memAvailMb":  5752,
+        "seconds":  4.7,
+        "ok":  true
+    },
+    {
+        "n":  4,
+        "app":  "com.android.contacts",
+        "displayId":  60,
+        "alive":  true,
+        "focused":  "com.android.contacts/.activities.PeopleActivity",
+        "cpuPct":  11.4,
+        "memAvailMb":  5652,
+        "seconds":  4.7,
+        "ok":  true
+    },
+    {
+        "n":  5,
+        "app":  "com.android.dialer",
+        "displayId":  61,
+        "alive":  true,
+        "focused":  "com.android.dialer/.main.impl.MainActivity",
+        "cpuPct":  10.9,
+        "memAvailMb":  5528,
+        "seconds":  5,
+        "ok":  true
+    },
+    {
+        "n":  6,
+        "app":  "org.lineageos.jelly",
+        "displayId":  62,
+        "alive":  true,
+        "focused":  "org.lineageos.jelly/.MainActivity",
+        "cpuPct":  14.5,
+        "memAvailMb":  5428,
+        "seconds":  5.1,
+        "ok":  true
+    },
+    {
+        "n":  7,
+        "app":  "org.lineageos.twelve",
+        "displayId":  63,
+        "alive":  true,
+        "focused":  "org.lineageos.twelve/.MainActivity",
+        "cpuPct":  15,
+        "memAvailMb":  5325,
+        "seconds":  4.7,
+        "ok":  true
+    },
+    {
+        "n":  8,
+        "app":  "com.android.documentsui",
+        "displayId":  64,
+        "alive":  true,
+        "focused":  "com.android.documentsui/.files.FilesActivity",
+        "cpuPct":  13,
+        "memAvailMb":  5321,
+        "seconds":  5,
+        "ok":  true
+    },
+    {
+        "n":  9,
+        "app":  "com.android.messaging",
+        "displayId":  65,
+        "alive":  true,
+        "focused":  "com.android.messaging/.ui.conversationlist.ConversationListActivity",
+        "cpuPct":  11.9,
+        "memAvailMb":  5210,
+        "seconds":  5.1,
+        "ok":  true
+    },
+    {
+        "n":  10,
+        "app":  "com.android.chrome",
+        "displayId":  66,
+        "alive":  true,
+        "focused":  "com.android.chrome/org.chromium.chrome.browser.firstrun.FirstRunActivity",
+        "cpuPct":  11.1,
+        "memAvailMb":  5080,
+        "seconds":  5.2,
+        "ok":  true
+    },
+    {
+        "n":  11,
+        "app":  "com.tencent.mm",
+        "displayId":  67,
+        "alive":  true,
+        "focused":  "com.tencent.mm/.plugin.account.ui.WelcomeActivity",
+        "cpuPct":  26.5,
+        "memAvailMb":  4875,
+        "seconds":  5,
+        "ok":  true
+    },
+    {
+        "n":  12,
+        "app":  "com.taobao.taobao",
+        "displayId":  68,
+        "alive":  true,
+        "focused":  "com.taobao.taobao/com.taobao.tao.welcome.Welcome",
+        "cpuPct":  29.8,
+        "memAvailMb":  4820,
+        "seconds":  5.2,
+        "ok":  true
+    },
+    {
+        "n":  13,
+        "app":  "com.ss.android.ugc.trill",
+        "displayId":  69,
+        "alive":  true,
+        "focused":  "com.ss.android.ugc.trill/com.ss.android.ugc.aweme.pns.universalpopup.core.ui.UniversalPopupActivity",
+        "cpuPct":  70,
+        "memAvailMb":  3746,
+        "seconds":  5.3,
+        "ok":  true
+    },
+    {
+        "n":  14,
+        "app":  "com.xingin.xhs",
+        "displayId":  70,
+        "alive":  true,
+        "focused":  "com.xingin.xhs/.index.v2.IndexActivityV2",
+        "cpuPct":  60.8,
+        "memAvailMb":  3534,
+        "seconds":  4.9,
+        "ok":  true
+    },
+    {
+        "n":  15,
+        "app":  "com.google.android.youtube",
+        "displayId":  71,
+        "alive":  true,
+        "focused":  "com.google.android.youtube/.app.honeycomb.Shell$HomeActivity",
+        "cpuPct":  63.5,
+        "memAvailMb":  3300,
+        "seconds":  5.5,
+        "ok":  true
+    }
+]
